@@ -12,7 +12,7 @@ As a Software Engineer, I'm really into making websites that not only look good 
 
 ### 🔭 I’m currently working on
 - An AI web app that quizzes you to discover your ideal tech niche
-- [Another Project]
+- Wedding Planner App
 
 ### 📫 How to reach me
 - **Email:** ammarkhan310@gmai.com
@@ -39,7 +39,6 @@ As a Software Engineer, I'm really into making websites that not only look good 
 <code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/graphql.svg" alt="GraphQL"></code>
 <code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/leetcode.svg" alt="LeetCode"></code>
 <code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/mongodb.svg" alt="MongoDB"></code>
-<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/spring.svg" alt="Spring"></code>
 <code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/tensorflow.svg" alt="TensorFlow"></code>
 <code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/unity.svg" alt="Unity3D"></code>
 <code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/unrealengine.svg" alt="UnrealEngine"></code>
