@@ -30,9 +30,20 @@ As a Software Engineer, I'm really into making websites that not only look good 
 
 ## Languages and Tools:
 
-<code><img height="20" src="URL_to_Icon" alt="React"></code>
-<code><img height="20" src="URL_to_Icon" alt="Technology Name"></code>
-<code><img height="20" src="URL_to_Icon" alt="Technology Name"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/react.svg" alt="React"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/nextdotjs.svg" alt="NextJs"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/nodedotjs.svg" alt="NodeJs"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/python.svg" alt="Python"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/awslambda.svg" alt="Lambda"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/flutter.svg" alt="Flutter"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/graphql.svg" alt="GraphQL"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/leetcode.svg" alt="LeetCode"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/mongodb.svg" alt="MongoDB"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/spring.svg" alt="Spring"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/tensorflow.svg" alt="TensorFlow"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/unity.svg" alt="Unity3D"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/unrealengine.svg" alt="UnrealEngine"></code>
+<code><img height="50" src="https://github.com/ammarkhan310/ammarkhan310/blob/main/Assets/visualstudiocode.svg" alt="VSCode"></code>
 
 ---
 
