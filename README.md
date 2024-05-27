@@ -9,7 +9,7 @@ As a Software Engineer, I'm really into making websites that not only look good 
 ### 🌱 What I'm currently learning
 - GraphQL
 - Elastic Stack (ELK)
-- Grinding Leetcode ☠️
+- DSA ☠️
 
 ### 🔭 I’m currently working on
 - An AI web app that quizzes you to discover your ideal tech niche
