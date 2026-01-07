@@ -18,7 +18,7 @@ As a Software Engineer, I'm really into making websites that not only look good 
 ### 📫 How to reach me
 - **Email:** ammarkhan310@gmai.com
 - **LinkedIn:** https://www.linkedin.com/in/ammar-khan-b69999116/
-- **Portfolio:** https://www.ammarkhan.ca/
+- **Portfolio:** https://www.ammarkhan.ca/ (It's from 5 years ago TODO: make a new one)
 
 ### ⚡ Fun fact
 - I have over 10,000 hours in Mario Kart DS
