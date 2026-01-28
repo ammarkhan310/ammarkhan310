@@ -8,8 +8,8 @@ As a Software Engineer, I'm really into making websites that not only look good 
 
 ### 🌱 What I'm currently learning
 - GraphQL
-- Elastic Stack (ELK)
-- DSA ☠️
+- Ruby
+- Rust
 
 ### 🔭 I’m currently working on
 - An AI web app that quizzes you to discover your ideal tech niche
@@ -19,9 +19,6 @@ As a Software Engineer, I'm really into making websites that not only look good 
 - **Email:** ammarkhan310@gmai.com
 - **LinkedIn:** https://www.linkedin.com/in/ammar-khan-b69999116/
 - **Portfolio:** https://www.ammarkhan.ca/ (It's from 5 years ago TODO: make a new one)
-
-### ⚡ Fun fact
-- I have over 10,000 hours in Mario Kart DS
 
 ---
 
