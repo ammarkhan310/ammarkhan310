@@ -9,10 +9,10 @@ As a Software Engineer, I'm really into making websites that not only look good 
 ### 🌱 What I'm currently learning
 - GraphQL
 - Ruby
-- Rust
+- GO
 
 ### 🔭 I’m currently working on
-- An AI web app that quizzes you to discover your ideal tech niche
+- Storage organizing App
 - Wedding Planner App
 
 ### 📫 How to reach me
